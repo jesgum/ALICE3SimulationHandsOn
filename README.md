@@ -5,31 +5,31 @@ https://indico.cern.ch/event/1605731/
 
 ## Instructions per session:
 
-1. **[ACTS](Sessions/ACTS/README.md)** - 75 min
+1. **[ACTS](Sessions/1_ACTS/README.md)** - 75 min
    - Running ACTS with ALICE configuration
    - Converting ACTS simulation output to AO2D format
 
-2. **[Fast Analysis Tool (FAT)](Sessions/FastAnalysisTool/README.md)** - 45 min
+2. **[Fast Analysis Tool (FAT)](Sessions/2_FastAnalysisTool/README.md)** - 45 min
    - Learn what FAT does and how to extract detector performance
    - Learn how to produce Look-Up Tables (LUTs)
 
-3. **[Fast Simulation](Sessions/FastSimulation/README.md)** - 75 min
+3. **[Fast Simulation](Sessions/3_FastSimulation/README.md)** - 75 min
    - On-the-fly simulation for primary tracks and decays
    - Event generators and O2DPG configuration
    - Efficiency and momentum resolution studies
    - Weak decay reconstruction performance
 
-4. **[Fast Simulation Analysis](Sessions/FastSimulationAnalysis/README.md)** - 75 min
+4. **[Fast Simulation Analysis](Sessions/4_FastSimulationAnalysis/README.md)** - 75 min
    - Utility tasks for on-the-fly simulation (TOF, RICH, ClusterSize)
    - TOF PID in analysis with multiple detector configurations
    - D meson invariant mass reconstruction
 
-5. **[Full Simulation](Sessions/FullSimulation/README.md)** - 75 min
+5. **[Full Simulation](Sessions/5_FullSimulation/README.md)** - 75 min
    - What is full simulation and geometry
    - Current status of full simulation in O2
    - Running your own full simulation within O2
 
-6. **[Full Simulation Analysis](Sessions/FullSimulationAnalysis/README.md)** - 75 min
+6. **[Full Simulation Analysis](Sessions/6_FullSimulationAnalysis/README.md)** - 75 min
    - Reading hit information
    - Drawing detector geometry
    - Particle level information between hits and particles
