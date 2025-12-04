@@ -38,6 +38,8 @@ https://indico.cern.ch/event/1605731/
 ## Instructions to get started
 
 In order to get ready for the hands on you should have the most recent **O2Physics** and **ACTS** installed via *aliBuild*.
+It doesn't hurt to setup your lxplus access: https://linux-training.web.cern.ch/lxplus/introduction/ just as a backup.
+
 
 ### O2Physics Installation Decision Tree
 
